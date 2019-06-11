@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/plikwykonywalny.dir/src/kupa.cpp.o CMakeFiles/plikwykonywalny.dir/src/main.cpp.o  -o plikwykonywalny 

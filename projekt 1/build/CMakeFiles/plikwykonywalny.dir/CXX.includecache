@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../inc/kupa.hpp
+
+/home/a17sude/Desktop/PAMSI/proejkt/src/kupa.cpp
+kupa.hpp
+/home/a17sude/Desktop/PAMSI/proejkt/src/kupa.hpp
+iostream
+-
+
+/home/a17sude/Desktop/PAMSI/proejkt/src/main.cpp
+kupa.hpp
+/home/a17sude/Desktop/PAMSI/proejkt/src/kupa.hpp
+
